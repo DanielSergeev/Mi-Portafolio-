@@ -12,7 +12,7 @@
 Haz clic en el botón de abajo para explorar mi experiencia y proyectos:
 
 <a href="https://danielsergeev.github.io/Mi-Portafolio-/">
-  <img src="https://img.shields.io/badge/VER_PORTAFOLIO-00df88?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=white" alt="Ver Portafolio" height="50">
+  <img src="https://danielsergeev.github.io/Mi-Portafolio/index.html?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=white" alt="Ver Portafolio" height="50">
 </a>
 
 ---
@@ -22,13 +22,8 @@ Haz clic en el botón de abajo para explorar mi experiencia y proyectos:
 
 </div>
 
----
 
-### 📂 Proyectos Destacados
-* **Gestión de Infraestructura:** Configuración completa de servicios DNS, DHCP y Active Directory.
-* **Seguridad en Redes:** Implementación de reglas de Firewall y auditoría de sistemas.
 
-### 📫 Contacto
-* [LinkedIn](TU_URL_DE_LINKEDIN)
-* [Email](mailto:tu-correo@ejemplo.com)
+
+
 
